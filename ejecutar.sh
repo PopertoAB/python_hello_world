@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python hw.py
+python /root/python_hello_world/hw.py
